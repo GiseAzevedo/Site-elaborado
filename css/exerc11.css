@@ -326,6 +326,18 @@ main-header-title strong{
     
 }
 
+.main-footer a{
+    color: rgba(255, 255, 255, 0.4);    
+    text-decoration: none;
+}
+.main-footer a:hover{
+    color: #49bf9d;   
+}
+.main-footer .ul-icons a{
+  font-size: 1.125 em;   
+  border-bottom: none;
+}
+
 .icon-link{
     list-style-type: none;
     color:rgb(124, 124, 124);
